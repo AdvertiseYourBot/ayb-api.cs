@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AybApi", "AybApi\AybApi.csproj", "{EE2B4412-8047-4C6C-BF35-5AC72A1AA388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE2B4412-8047-4C6C-BF35-5AC72A1AA388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2B4412-8047-4C6C-BF35-5AC72A1AA388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2B4412-8047-4C6C-BF35-5AC72A1AA388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2B4412-8047-4C6C-BF35-5AC72A1AA388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D78AE264-6125-49D0-9B11-AC1560055791}
+	EndGlobalSection
+EndGlobal
