@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>AybApi</id>
+    <version>1.0.2</version>
+    <authors>matievisthekat</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">GPL-3.0-or-later</license>
+    <projectUrl>https://github.com/AdvertiseYourBot/ayb-api.cs</projectUrl>
+    <description>The official wrapper to interact with the AYB API. Please refer to the GitHub repo (https://github.com/AdvertiseYourBot/ayb-api.cs) for documentaion</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>ayb api wrapper</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Newtonsoft.Json" version="12.0.3" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
