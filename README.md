@@ -28,7 +28,7 @@ The official C# AYB api wrapper. Looking for another language? [Java](https://gi
 
 ###### Properties
 
-- **String: OwnerId** `The user property for the owner of this bot (if a Discord.js v12+ client was passed when initializing the Manager). If no client was passed or no user was found then it will default to the owner's id`
+- **String: OwnerId** `The bot owner's ID`
 
 - **String: Id** `The id of this bot`
 
